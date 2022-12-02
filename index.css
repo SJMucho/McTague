@@ -550,9 +550,11 @@ a:hover {
     align-items: center;
     justify-content: space-evenly;
     gap: 2px;
+    margin-bottom: 40px;
+    margin-top: 30px;
   }
   .nav-container {
-    margin-top: 10px;
+    margin-top: 30px;
   }
 
   .title {
@@ -560,7 +562,7 @@ a:hover {
     margin: auto;
   }
   .nav {
-    font-size: 20px;
+    font-size: 25px;
     margin: auto;
   }
   .blurb-container {
@@ -595,7 +597,7 @@ a:hover {
   }
 
   .disrupted {
-    margin-top: 0px;
+    margin-top: auto;
   }
 
   .D {
@@ -611,6 +613,12 @@ a:hover {
 
   .BN {
     width: 80%;
+  }
+  .header-container {
+    margin-top: 0px;
+  }
+  #contact {
+    font-size: 20px;
   }
 }
 
