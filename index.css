@@ -532,22 +532,19 @@ a:hover {
 }
 
 @media screen and (max-width: 390px) {
+
+  
   body {
     width: 100% auto;
   }
   #title {
     margin: auto;
-    font-size: 18px;
+    font-size: 23px;
   }
   .landingImg {
     width: 100% auto;
     height: 275px;
     margin-top: 50px;
-  }
-
-  /* .title {
-    font-size: 18px;
-    margin: auto;
   }
 
   .header {
