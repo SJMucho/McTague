@@ -134,7 +134,8 @@ body {
 }
 
 a:hover {
-  color: lightsteelblue;
+  /* color: lightsteelblue; */
+  color: slateblue;
 }
 
 .landingImg {
