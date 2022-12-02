@@ -570,6 +570,10 @@ a:hover {
     margin-top: 50px;
   }
 
+  #headshot {
+    height: 300px;
+  }
+
   #blurb-container {
     margin-top: 50px;
     margin-right: 20px;
@@ -580,7 +584,7 @@ a:hover {
   .blurb {
     font-size: 20px;
     text-align: justify;
-    text-justify: inter-word;
+    /* text-justify: inter-word; */
   }
 
   .book-container {
@@ -607,7 +611,7 @@ a:hover {
 
   .D {
     width: 80%;
-    margin-top: 30px;
+    margin-top: 20px;
     align-items: center;
     margin-left: 40px;
   }
@@ -618,6 +622,9 @@ a:hover {
 
   .BN {
     width: 80%;
+  }
+  header {
+    margin-top: 0px;
   }
   #contact {
     font-size: 20px;
