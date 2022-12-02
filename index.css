@@ -538,11 +538,11 @@ a:hover {
   .landingImg {
     width: 100% auto;
     height: 275px;
-    margin-top: auto;
+    margin-top: 50px;
   }
 
   .header {
-    margin: auto;
+    margin-top: auto;
   }
 
   .header-container {
