@@ -532,8 +532,6 @@ a:hover {
 }
 
 @media screen and (max-width: 390px) {
-
-  
   body {
     width: 100% auto;
   }
@@ -566,6 +564,10 @@ a:hover {
   .nav {
     font-size: 20px;
     margin: auto;
+  }
+
+  .bio-container {
+    margin-top: 30px;
   }
 
   .blurb-container {
@@ -617,12 +619,9 @@ a:hover {
   .BN {
     width: 80%;
   }
-  .header-container {
-    margin-top: 0px;
-  }
   #contact {
     font-size: 20px;
-  } */
+  }
 }
 
 @media screen and (max-width: 375px) {
