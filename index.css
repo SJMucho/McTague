@@ -535,15 +535,19 @@ a:hover {
   body {
     width: 100% auto;
   }
+  .title {
+    margin: auto;
+    font-size: 20px;
+  }
   .landingImg {
     width: 100% auto;
     height: 275px;
     margin-top: 50px;
   }
 
-  .title {
+  /* .title {
     font-size: 18px;
-    /* margin: auto; */
+    margin: auto;
   }
 
   .header {
@@ -621,7 +625,7 @@ a:hover {
   }
   #contact {
     font-size: 20px;
-  }
+  } */
 }
 
 @media screen and (max-width: 375px) {
