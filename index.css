@@ -538,6 +538,7 @@ a:hover {
   .landingImg {
     width: 100% auto;
     height: 275px;
+    margin-top: auto;
   }
 
   .header {
