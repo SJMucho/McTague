@@ -622,6 +622,9 @@ a:hover {
   #contact {
     font-size: 20px;
   }
+  #footer-container {
+    margin-top: 10px;
+  }
 }
 
 @media screen and (max-width: 375px) {
