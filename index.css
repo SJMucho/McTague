@@ -541,6 +541,11 @@ a:hover {
     margin-top: 50px;
   }
 
+  .title {
+    font-size: 18px;
+    /* margin: auto; */
+  }
+
   .header {
     margin-top: 20px;
   }
@@ -559,14 +564,8 @@ a:hover {
   }
   .nav {
     font-size: 20px;
-    margin: 5px;
+    margin: auto;
   }
-
-  .title {
-    font-size: 18px;
-    /* margin: auto; */
-  }
-
 
   .blurb-container {
     margin-top: 0px;
