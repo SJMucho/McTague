@@ -559,8 +559,8 @@ a:hover {
   }
 
   .title {
-    font-size: 20px;
-    margin: auto;
+    font-size: 18px;
+    /* margin: auto; */
   }
   .nav {
     font-size: 20px;
