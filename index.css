@@ -134,8 +134,7 @@ body {
 }
 
 a:hover {
-  /* color: lightsteelblue; */
-  color: slateblue;
+  color: lightsteelblue;
 }
 
 .landingImg {
@@ -536,10 +535,9 @@ a:hover {
   body {
     width: 100% auto;
   }
-  .title {
+  #title {
     margin: auto;
-    font-size: 20px;
-    color: fuchsia;
+    font-size: 18px;
   }
   .landingImg {
     width: 100% auto;
