@@ -538,6 +538,7 @@ a:hover {
   .title {
     margin: auto;
     font-size: 20px;
+    color: fuchsia;
   }
   .landingImg {
     width: 100% auto;
